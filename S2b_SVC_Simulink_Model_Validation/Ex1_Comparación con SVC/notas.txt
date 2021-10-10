@@ -1,0 +1,12 @@
+
+
+Ejemplo de:
+
+[1]Acha,E. FACTS Modelling and Simulation in Power Networks.
+	 1st Edition. Boca Raton : John Wiley & Sons Inc,200
+
+
+Para simular el flujo de potencia:
+
+	En simulink se debe cambiar el ángulo de la GEN 2 y las bases para cada carga
+

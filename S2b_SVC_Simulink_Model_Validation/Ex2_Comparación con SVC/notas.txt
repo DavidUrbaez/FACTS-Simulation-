@@ -1,0 +1,7 @@
+Cambio nodo 5 de 0.6 pu a 1.0 pu,
+
+
+para simular el flujo de potencia:
+
+	En simulink se debe cambiar el ángulo de la GEN 2 y las bases para cada carga
+
